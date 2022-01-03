@@ -25,7 +25,7 @@
   <div> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaelgaioti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "steamcommunity.com/id/Callithrix/"><img src= "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href = "https://steamcommunity.com/id/Callithrix"><img src= "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
  
   ![Snake animation](https://github.com/RafaelGaioti/RafaelGaioti/blob/output/github-contribution-grid-snake.svg)
  
