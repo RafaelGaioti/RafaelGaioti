@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Pong Game Project
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Java
 - 🔥 I have plans to learn Python, Html and CSS soon
 - ✨ I'm Brazilian
 - 😄 Pronouns: he/him
