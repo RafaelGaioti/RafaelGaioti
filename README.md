@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Car Racing Game Project
+- 🔭 I’m currently working on a Pong Game Project
 - 🌱 I’m currently learning C#
 - 🔥 I have plans to learn Python, Html and CSS soon
 - ✨ I'm Brazilian
