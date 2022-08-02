@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Youtube Clone Project
+- 🔭 I’m currently working on a Landing Page project
 - 🌱 I’m currently learning Web development
 - ✨ I'm Brazilian
 - 😄 Pronouns: he/him
@@ -12,10 +12,8 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Cpp" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/catghost-investigations/images/d/df/Elon_infobox_cat.png/revision/latest?cb=20180524075316">
 </div>
