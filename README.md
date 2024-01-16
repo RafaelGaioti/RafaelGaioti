@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Landing Page project
-- 🌱 I’m currently learning Web development
-- ✨ I'm Brazilian
-- 😄 Pronouns: he/him
-
 <div align="center">
   <a href="https://github.com/RafaelGaioti">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=RafaelGaioti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
